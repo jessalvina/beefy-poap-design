@@ -1,5 +1,4 @@
 # BEEFY - POAP Design
----
 
 Welcome! Here are some of my artworks for Beefy POAP Design
 
